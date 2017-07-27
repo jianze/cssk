@@ -24,6 +24,8 @@
 }
 .kaitou .jianjie{
     float: none;
+    margin-top: 24px;
+    font-size: 14px;
 }
 .kaitou .jianjie .zaiyao{
     width: 100%;
