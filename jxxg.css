@@ -1,0 +1,26 @@
+.kaitou{
+    height: auto;
+}
+.kaitou .biaotu{
+    width: 206px;
+    height: 145px;
+    background-size: 100%;
+    padding-top: 11px;
+    padding-left: 33px;
+}
+.kaitou .biaotu .tu{
+    width: 173px;
+    height: 107px;
+}
+.kaitou .biaotu .tu img{
+    width: 100%;
+}
+.kaitou .kt1{
+    overflow: hidden;
+}
+.kaitou .jianjie h1{
+    margin-top: 15px;
+}
+.kaitou .zixun{
+    margin-top: 22px;
+}
