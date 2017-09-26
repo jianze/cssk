@@ -58,3 +58,6 @@
 .nav-yiji .nav-yijinei:hover, .nav-yiji .nav-yijinei:hover .nav-yijia, .nav-erji .nav-erjinei:hover p, .nav-erji .nav-erjinei:hover .nav-erjia, .nav-sanji .nav-sanjinei:hover .nav-sanjia{
     color: #ffa401 !important;
 }
+.anlifl-box .anlifl-bian{
+    background: url("https://jianze.github.io/imagesku/rgarga.png") no-repeat !important;
+}
