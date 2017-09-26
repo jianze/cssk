@@ -55,3 +55,6 @@
 .banner-dian li{
     background: rgba(214,0,0,0.5) !important;
 }
+.nav-yiji .nav-yijinei:hover, .nav-yiji .nav-yijinei:hover .nav-yijia, .nav-erji .nav-erjinei:hover p, .nav-erji .nav-erjinei:hover .nav-erjia, .nav-sanji .nav-sanjinei:hover .nav-sanjia{
+    color: #ffa401 !important;
+}
